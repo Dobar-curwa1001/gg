@@ -1,0 +1,89 @@
+body{
+font-family: sans-serif;
+}
+h1{
+font-size: 50px;
+text-align: center;
+}
+table{
+border-collapse: collapse;
+ border: 1px solid lightgrey;
+ margin: 10px;
+ text-align: center;
+ font-size: 20px;
+}
+tr{
+background-color: olive;
+color: white;
+border: 1px solid lightgrey;
+}
+.ert{  
+background-color: olive; color: white; border: 1px solid lightgrey; padding: 0px; border: 1px solid lightgrey;"
+}
+.hh{
+background-color: olive; color: white; border: 1px solid lightgrey; padding: 0px; border: 1px solid lightgrey;"
+}
+.hg{
+background-color: olive; color: white; border: 1px solid lightgrey; padding: 0px; border: 1px solid lightgrey;"
+}
+.ho{
+background-color: olive; color: white; border: 1px solid lightgrey; padding: 0px; border: 1px solid lightgrey;
+}
+.hn{
+background-color: olive; color: white; border: 1px solid lightgrey; padding: 0px; border: 1px solid lightgrey;
+}
+.dr{
+background-color: olive; color: white; border: 1px solid lightgrey;
+}
+.hb{
+padding: 5px; border: 1px solid lightgrey;
+}
+.hy{
+background-color: burlywood; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.ertg{
+background-color: white; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.hu{
+background-color: burlywood; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.ertk{
+background-color: white; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.rer{
+background-color: olive; color: white; border: 1px solid lightgrey; border: 1px solid lightgrey;
+}
+.he{
+padding: 5px; border: 1px solid lightgrey;
+}
+.hw{
+background-color: burlywood; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.hc{
+background-color: white; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.cc{
+background-color: burlywood; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.gg{
+background-color: white; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.ertu{
+background-color: olive; color: white; border: 1px solid lightgrey;
+}
+.yy{
+padding: 5px; border: 1px solid lightgrey;
+}
+.ff{
+background-color: burlywood; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.zz{
+background-color: white; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+.zq{
+background-color: burlywood; color: black; padding: 5px; border: 1px solid lightgrey;
+}
+
+.za{
+background-color: white; color: black; padding: 5px;
+}
